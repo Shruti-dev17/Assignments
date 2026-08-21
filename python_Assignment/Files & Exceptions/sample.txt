@@ -1,0 +1,3 @@
+Hi, my name is Shruti
+this is a sample text file for Assignment 4
+Task 1 is to read a file and handle errors.
